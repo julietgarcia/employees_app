@@ -1,9 +1,8 @@
-# CodeIgniter 2
-Open Source PHP Framework (originally from EllisLab)
+# Employees App
 
-For more info, please refer to the user-guide at http://www.codeigniter.com/userguide2/  
-(also available within the download package for offline use)
+Basic web application to administrate your employees list.
+It working with CRUD to manage all your employees.
 
-**WARNING:** *CodeIgniter 2.x is no longer under development and only receives security patches until October 31st, 2015.
-Please update your installation to the latest CodeIgniter 3.x version available
-(upgrade instructions [here](http://www.codeigniter.com/userguide3/installation/upgrade_300.html)).*
+It was made with ** CodeIgniter 2 **, open Source PHP Framework (originally from EllisLab).
+
+To work with ** Employees App **, you must create your database with employees_app.sql backup that contain this repository.
